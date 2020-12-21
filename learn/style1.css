@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(31, 231, 221);
+}
+div{background-color: orange;
+    width: 400px;
+    height:150px;
+    margin:50px;
+    padding: 30px;
+    color:red;
+}
